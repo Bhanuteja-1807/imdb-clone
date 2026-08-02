@@ -1,5 +1,5 @@
 import React from "react";
-import Watchlist from "./watchlist";
+import Watchlist from "./Watchlist";
 
 function Moviecard({
   movieObj,
