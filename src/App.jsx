@@ -1,7 +1,7 @@
 import Navbar from "./Components/Navbar";
 import "./App.css";
 import Movies from "./Components/Movies";
-import Watchlist from "./Components/watchlist";
+import Watchlist from "./Components/Watchlist";
 import { BrowserRouter, Routes, Route, useActionData } from "react-router-dom";
 import Banner from "./Components/Banner";
 import { useEffect, useState } from "react";
