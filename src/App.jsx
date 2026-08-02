@@ -1,6 +1,6 @@
 import Navbar from "./Components/Navbar";
 import "./App.css";
-import Movies from "./Components/movies";
+import Movies from "./Components/Movies";
 import Watchlist from "./Components/watchlist";
 import { BrowserRouter, Routes, Route, useActionData } from "react-router-dom";
 import Banner from "./Components/Banner";
